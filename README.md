@@ -6,7 +6,7 @@ This project demonstrates a simple animation of stairs using HTML and CSS. The a
 
 https://github.com/logusivam/Stair-Animation/assets/106108501/501836ad-e22b-484a-9a77-e7e72edccbf8
 
-You can see a live demo [here](https://logusivam.github.io/Stair-Animation/)
+You can see a live demo [click here](https://logusivam.github.io/Stair-Animation/)
 
 ## Usage
 
