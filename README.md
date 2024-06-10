@@ -8,6 +8,8 @@ https://github.com/logusivam/Stair-Animation/assets/106108501/501836ad-e22b-484a
 
 You can see a live demo [click here](https://logusivam.github.io/Stair-Animation/)
 
+[CLICK HERE TO SUBSCRIBE MY YOUTUBE CHANNEL](https://www.youtube.com/@Logusivamacademy26)
+
 ## Usage
 
 To use this animation, simply include the provided HTML and CSS code into your project. You can customize the animation duration, colors, and other properties as needed.
