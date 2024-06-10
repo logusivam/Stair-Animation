@@ -45,3 +45,6 @@ To use this animation, simply include the provided HTML and CSS code into your p
 ## CONTRIBUTION
 
 Feel free to modify and integrate this animation into your projects for added visual interest.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
